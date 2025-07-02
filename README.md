@@ -92,6 +92,6 @@ Jika Anda memiliki ide perbaikan atau ingin menambahkan fitur lain (misalnya: lu
 ## 🧑‍💻 Penulis
 
 **Yoga Pratama**
-📧 Email: [yp170090@gmail.com](mailto:yp170090@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/yoga-pratama-923202349/](https://www.linkedin.com/in/yoga-pratama-923202349/)
-🐱 GitHub: [https://github.com/Yongsjasjos](https://github.com/Yongsjasjos)
+- 📧 Email: [yp170090@gmail.com](mailto:yp170090@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/yoga-pratama-923202349/](https://www.linkedin.com/in/yoga-pratama-923202349/)
+- 🐱 GitHub: [https://github.com/Yongsjasjos](https://github.com/Yongsjasjos)
